@@ -1,0 +1,101 @@
+,file_name,pred_scores,pred_scores_max,pred_class_val,pred_class_,actual_value, actual_class_val,model
+0,offensive-Z1VeVXi.png,[[-0.25398934  0.2612347 ]],0.26123470067977905,1,offensive,offensive,1,effnet_multioff
+1,offensive-zq7bXGu.png,[[-0.3979227   0.26367873]],0.26367872953414917,1,offensive,offensive,1,effnet_multioff
+2,offensive-xYTrJJp.png,[[ 0.6671249  -0.41699636]],0.6671249270439148,0,non-offensive,offensive,1,effnet_multioff
+3,offensive-wzOK4S3.png,[[ 0.20508814 -0.05435681]],0.20508813858032227,0,non-offensive,offensive,1,effnet_multioff
+4,offensive-zoIImWJ.png,[[ 0.6779647 -0.2741071]],0.6779646873474121,0,non-offensive,offensive,1,effnet_multioff
+5,offensive-wkkA7rU.png,[[-0.26263922  0.2669142 ]],0.2669141888618469,1,offensive,offensive,1,effnet_multioff
+6,offensive-YIi9Bga.png,[[ 0.92319095 -0.7716487 ]],0.9231909513473511,0,non-offensive,offensive,1,effnet_multioff
+7,offensive-Zh4CZSe.png,[[ 0.13149661 -0.04881766]],0.1314966082572937,0,non-offensive,offensive,1,effnet_multioff
+8,offensive-yZLLqn4.png,[[-0.53478485  0.36771566]],0.36771565675735474,1,offensive,offensive,1,effnet_multioff
+9,offensive-z5sSuk3.png,[[ 0.07200529 -0.06117763]],0.07200528681278229,0,non-offensive,offensive,1,effnet_multioff
+10,offensive-xJiXDnY.png,[[-0.3922583   0.67805976]],0.6780597567558289,1,offensive,offensive,1,effnet_multioff
+11,offensive-W3jhTxL.png,[[0.12852064 0.04243715]],0.1285206377506256,0,non-offensive,offensive,1,effnet_multioff
+12,offensive-WwN5X3R.png,[[ 1.6289643 -1.2853222]],1.6289643049240112,0,non-offensive,offensive,1,effnet_multioff
+13,offensive-Wwe2NdZ.png,[[ 0.54560846 -0.22902703]],0.5456084609031677,0,non-offensive,offensive,1,effnet_multioff
+14,offensive-WPnY6NN.png,[[ 0.5192086  -0.36604986]],0.5192086100578308,0,non-offensive,offensive,1,effnet_multioff
+15,offensive-x9dwWj9.png,[[-1.41073    1.1620449]],1.162044882774353,1,offensive,offensive,1,effnet_multioff
+16,offensive-x76JHsa.png,[[0.06109742 0.21346168]],0.21346168220043182,1,offensive,offensive,1,effnet_multioff
+17,offensive-WZ1NLSt.png,[[ 0.63202524 -0.5196987 ]],0.6320252418518066,0,non-offensive,offensive,1,effnet_multioff
+18,offensive-XtxfPFR.png,[[-0.38143933  0.4561612 ]],0.4561612010002136,1,offensive,offensive,1,effnet_multioff
+19,offensive-yDO396v.png,[[ 0.5341004  -0.49667513]],0.5341004133224487,0,non-offensive,offensive,1,effnet_multioff
+20,offensive-ysAk127.png,[[ 0.65524364 -0.4239037 ]],0.6552436351776123,0,non-offensive,offensive,1,effnet_multioff
+21,offensive-Xx9KwVV.png,[[ 1.060832  -0.8855215]],1.0608320236206055,0,non-offensive,offensive,1,effnet_multioff
+22,offensive-ykGRBWn.png,[[0.14722078 0.08202259]],0.14722077548503876,0,non-offensive,offensive,1,effnet_multioff
+23,offensive-WDSz8Sa.png,[[ 0.33184862 -0.21394125]],0.3318486213684082,0,non-offensive,offensive,1,effnet_multioff
+24,offensive-yiS7xVy.png,[[ 0.5837991  -0.44609344]],0.5837991237640381,0,non-offensive,offensive,1,effnet_multioff
+25,offensive-ZffTHk2.png,[[0.12257647 0.12979178]],0.12979178130626678,1,offensive,offensive,1,effnet_multioff
+26,offensive-xOFyAk8.png,[[-0.66979676  0.89747   ]],0.8974699974060059,1,offensive,offensive,1,effnet_multioff
+27,offensive-ZwFfyVJ.png,[[-0.23636974  0.32130474]],0.3213047385215759,1,offensive,offensive,1,effnet_multioff
+28,offensive-WDUgdRk.png,[[-0.14654998  0.318591  ]],0.31859099864959717,1,offensive,offensive,1,effnet_multioff
+29,offensive-xtvEjIx.png,[[ 1.4335371 -1.0093149]],1.4335371255874634,0,non-offensive,offensive,1,effnet_multioff
+30,offensive-whhrfSE.png,[[-0.18692775  0.30773503]],0.30773502588272095,1,offensive,offensive,1,effnet_multioff
+31,offensive-yJZO4mQ.png,[[-1.0631534  1.1409442]],1.140944242477417,1,offensive,offensive,1,effnet_multioff
+32,offensive-WVeMKB9.png,[[ 0.8446801 -0.5233469]],0.8446800708770752,0,non-offensive,offensive,1,effnet_multioff
+33,offensive-y898T2X.png,[[ 0.31706607 -0.01565314]],0.3170660734176636,0,non-offensive,offensive,1,effnet_multioff
+34,offensive-Wl32YJG.png,[[ 0.10105204 -0.00320725]],0.10105203837156296,0,non-offensive,offensive,1,effnet_multioff
+35,offensive-we4hhWi.png,[[-1.7135633  1.7100716]],1.7100715637207031,1,offensive,offensive,1,effnet_multioff
+36,offensive-W5DXy2F.png,[[0.13643865 0.02721627]],0.13643865287303925,0,non-offensive,offensive,1,effnet_multioff
+37,offensive-yHg7DkU.png,[[-0.5582557   0.46925908]],0.4692590832710266,1,offensive,offensive,1,effnet_multioff
+38,offensive-z1gozo1.png,[[-1.6814407  1.6816978]],1.6816978454589844,1,offensive,offensive,1,effnet_multioff
+39,offensive-zAUFD7y.png,[[ 0.23373538 -0.19231933]],0.23373538255691528,0,non-offensive,offensive,1,effnet_multioff
+40,offensive-wKSn3TS.png,[[0.19116792 0.02172913]],0.1911679208278656,0,non-offensive,offensive,1,effnet_multioff
+41,offensive-Y85uWnm.png,[[ 0.499579   -0.34974873]],0.4995790123939514,0,non-offensive,offensive,1,effnet_multioff
+42,offensive-ybxXd8R.png,[[ 0.17179692 -0.11509251]],0.17179691791534424,0,non-offensive,offensive,1,effnet_multioff
+43,offensive-Xxc4mjq.png,[[ 1.2416768 -1.0400115]],1.2416768074035645,0,non-offensive,offensive,1,effnet_multioff
+44,offensive-xlV0M7Q.png,[[ 0.60964257 -0.554221  ]],0.6096425652503967,0,non-offensive,offensive,1,effnet_multioff
+45,Non_offensive-ztdf8dZ.png,[[ 0.6701991 -0.3850158]],0.6701990962028503,0,non-offensive,non-offensive,0,effnet_multioff
+46,offensive-yGHKtzg.png,[[ 1.1886815 -0.9745425]],1.1886814832687378,0,non-offensive,offensive,1,effnet_multioff
+47,Non_offensive-X7mEejq.jpg.png,[[ 0.57684284 -0.3537091 ]],0.5768428444862366,0,non-offensive,non-offensive,0,effnet_multioff
+48,offensive-wZk5FIY.png,[[ 0.9301332  -0.65904874]],0.9301332235336304,0,non-offensive,offensive,1,effnet_multioff
+49,Non_offensive-X2dmDrp.png,[[0.17529652 0.08625199]],0.17529651522636414,0,non-offensive,non-offensive,0,effnet_multioff
+50,Non_offensive-zOImoh5.png,[[-0.1016936  -0.14480928]],-0.10169360041618347,0,non-offensive,non-offensive,0,effnet_multioff
+51,Non_offensive-zl617iP.png,[[-0.20368539  0.1787902 ]],0.17879019677639008,1,offensive,non-offensive,0,effnet_multioff
+52,Non_offensive-YGkNITr.png,[[ 0.46525747 -0.4208631 ]],0.465257465839386,0,non-offensive,non-offensive,0,effnet_multioff
+53,Non_offensive-zs6maXI.png,[[ 0.9378296  -0.74125004]],0.9378296136856079,0,non-offensive,non-offensive,0,effnet_multioff
+54,offensive-WcXzDk2.png,[[ 0.7652758  -0.79870147]],0.765275776386261,0,non-offensive,offensive,1,effnet_multioff
+55,offensive-ZAloCy9.png,[[0.10025503 0.11260247]],0.11260247230529785,1,offensive,offensive,1,effnet_multioff
+56,offensive-xyi7yMK.png,[[0.04972183 0.04760799]],0.04972182959318161,0,non-offensive,offensive,1,effnet_multioff
+57,Non_offensive-X0RNiHr.png,[[ 0.15470465 -0.2649584 ]],0.15470464527606964,0,non-offensive,non-offensive,0,effnet_multioff
+58,Non_offensive-wK9e9jg.png,[[ 1.1093372  -0.98026556]],1.1093372106552124,0,non-offensive,non-offensive,0,effnet_multioff
+59,Non_offensive-zQPb3nD.png,[[ 1.529427  -1.2904837]],1.5294270515441895,0,non-offensive,non-offensive,0,effnet_multioff
+60,Non_offensive-zKbUmLB.png,[[ 0.35973465 -0.37003362]],0.3597346544265747,0,non-offensive,non-offensive,0,effnet_multioff
+61,Non_offensive-yWd3NEB.png,[[ 0.33075592 -0.05288096]],0.33075591921806335,0,non-offensive,non-offensive,0,effnet_multioff
+62,Non_offensive-XwccSUy.png,[[-0.21707703  0.23669176]],0.23669175803661346,1,offensive,non-offensive,0,effnet_multioff
+63,Non_offensive-WyNvTye.png,[[ 0.570936   -0.49715596]],0.5709360241889954,0,non-offensive,non-offensive,0,effnet_multioff
+64,Non_offensive-ZMaAKc9.png,[[-0.8545765  0.7909621]],0.7909621000289917,1,offensive,non-offensive,0,effnet_multioff
+65,Non_offensive-YJ1QbDX.png,[[-0.4206096   0.69401073]],0.6940107345581055,1,offensive,non-offensive,0,effnet_multioff
+66,Non_offensive-XniGGU5.png,[[-0.9806032  1.0931486]],1.0931485891342163,1,offensive,non-offensive,0,effnet_multioff
+67,Non_offensive-WvnX54P.png,[[ 1.1977049 -0.9333632]],1.1977049112319946,0,non-offensive,non-offensive,0,effnet_multioff
+68,Non_offensive-XX28NwO.png,[[ 1.3520025 -1.0762817]],1.352002501487732,0,non-offensive,non-offensive,0,effnet_multioff
+69,Non_offensive-xLXvr9t.png,[[ 0.61616707 -0.4479965 ]],0.6161670684814453,0,non-offensive,non-offensive,0,effnet_multioff
+70,Non_offensive-XqB2jSY.png,[[-0.3009808   0.23868395]],0.23868395388126373,1,offensive,non-offensive,0,effnet_multioff
+71,Non_offensive-WSy7NGq.png,[[ 0.44458014 -0.38231528]],0.4445801377296448,0,non-offensive,non-offensive,0,effnet_multioff
+72,Non_offensive-XoR7xtd.png,[[-0.08777243  0.06987171]],0.06987170875072479,1,offensive,non-offensive,0,effnet_multioff
+73,Non_offensive-wgVTz9g.png,[[ 0.48503757 -0.33489937]],0.48503756523132324,0,non-offensive,non-offensive,0,effnet_multioff
+74,Non_offensive-ZbqRtuL.png,[[ 0.48131526 -0.52535605]],0.4813152551651001,0,non-offensive,non-offensive,0,effnet_multioff
+75,Non_offensive-yLF1GSc.png,[[-0.5179662   0.50146735]],0.5014673471450806,1,offensive,non-offensive,0,effnet_multioff
+76,Non_offensive-WSdFOAD.png,[[-0.31419653  0.36516738]],0.36516737937927246,1,offensive,non-offensive,0,effnet_multioff
+77,Non_offensive-yBjFq4v.png,[[ 1.5673844 -1.5600061]],1.5673843622207642,0,non-offensive,non-offensive,0,effnet_multioff
+78,Non_offensive-YW7mx62.png,[[ 0.43490934 -0.41734815]],0.4349093437194824,0,non-offensive,non-offensive,0,effnet_multioff
+79,Non_offensive-ZEjNdo0.png,[[ 1.0460632  -0.83157635]],1.0460631847381592,0,non-offensive,non-offensive,0,effnet_multioff
+80,Non_offensive-WiqI5X3.png,[[-0.62743735  0.7002822 ]],0.7002822160720825,1,offensive,non-offensive,0,effnet_multioff
+81,Non_offensive-zZIOwqg.png,[[-0.16537951  0.24870186]],0.24870185554027557,1,offensive,non-offensive,0,effnet_multioff
+82,Non_offensive-zr5VeQM.png,[[ 0.32789618 -0.35590327]],0.3278961777687073,0,non-offensive,non-offensive,0,effnet_multioff
+83,Non_offensive-XTg6oYN.png,[[ 1.0676254 -0.9018327]],1.0676254034042358,0,non-offensive,non-offensive,0,effnet_multioff
+84,Non_offensive-zPT9dFf.png,[[ 0.25699264 -0.04784654]],0.2569926381111145,0,non-offensive,non-offensive,0,effnet_multioff
+85,Non_offensive-zRgnrbT.png,[[-0.19592206  0.12781729]],0.1278172880411148,1,offensive,non-offensive,0,effnet_multioff
+86,Non_offensive-xQkfJse.png,[[ 1.0862303  -0.95283675]],1.0862302780151367,0,non-offensive,non-offensive,0,effnet_multioff
+87,Non_offensive-zFnJ1x3.png,[[ 0.1280021  -0.05954477]],0.1280021071434021,0,non-offensive,non-offensive,0,effnet_multioff
+88,Non_offensive-Wk0Wz2D.png,[[ 0.40644354 -0.16300142]],0.4064435362815857,0,non-offensive,non-offensive,0,effnet_multioff
+89,Non_offensive-ZWajHQq.png,[[ 0.34773964 -0.234636  ]],0.34773963689804077,0,non-offensive,non-offensive,0,effnet_multioff
+90,Non_offensive-wwEGRrn.png,[[ 0.7190508 -0.5848863]],0.7190508246421814,0,non-offensive,non-offensive,0,effnet_multioff
+91,Non_offensive-XYERAZg.png,[[-1.1265866  1.3104239]],1.3104238510131836,1,offensive,non-offensive,0,effnet_multioff
+92,Non_offensive-ykaOeQZ.png,[[-1.2532326  1.3692678]],1.3692678213119507,1,offensive,non-offensive,0,effnet_multioff
+93,Non_offensive-XMReWCt.png,[[ 0.70952713 -0.46336925]],0.7095271348953247,0,non-offensive,non-offensive,0,effnet_multioff
+94,Non_offensive-xGBX7zN.png,[[ 0.78671044 -0.7114396 ]],0.7867104411125183,0,non-offensive,non-offensive,0,effnet_multioff
+95,Non_offensive-zvdzU3y.png,[[ 0.35093674 -0.3205163 ]],0.35093674063682556,0,non-offensive,non-offensive,0,effnet_multioff
+96,Non_offensive-WQjyHN1.png,[[-0.6205791   0.76871175]],0.7687117457389832,1,offensive,non-offensive,0,effnet_multioff
+97,Non_offensive-ZOSUjXw.png,[[-0.45317113  0.4989856 ]],0.4989855885505676,1,offensive,non-offensive,0,effnet_multioff
+98,Non_offensive-X6BtuWV.png,[[ 0.7517854  -0.51083696]],0.751785397529602,0,non-offensive,non-offensive,0,effnet_multioff
+99,Non_offensive-xrh5RQD.png,[[-0.73061013  0.6897255 ]],0.6897255182266235,1,offensive,non-offensive,0,effnet_multioff
