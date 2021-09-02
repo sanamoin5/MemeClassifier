@@ -73,5 +73,6 @@ The current outputs are stored in outputs/ directory and results of classificati
 
 
 ### Weights
-The models will store the weights in weights/ directory and wil continue to utilize them if they are already present in the directory. 
+The models will store the weights in weights/ directory and wil continue to utilize them if they are already present in the directory. <br>
+The weights can be found at https://drive.google.com/drive/folders/1gPkhpasDZT2CLiZ5TWQ9Su4Roe5XNt1r?usp=sharing .
 
